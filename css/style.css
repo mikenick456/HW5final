@@ -1,0 +1,327 @@
+html
+{
+    width:1519px;
+}
+.container {
+    padding: 0;
+}
+.img-logo img{
+    width: 40px;
+    height: 40px;
+}
+.img-logo{
+    margin-left: 0px;
+    margin-right: 20px;
+    margin-top:0px;
+    margin-bottom:4px;
+}
+.logo-word
+{ margin-left: 0px;
+    margin-right: 20px;
+    margin-top:15px;
+    margin-bottom:4px;
+ 
+}
+.top
+{
+    background: rgba(0,85,255);
+}
+.top-nav
+{
+    padding:0px;
+}
+.list
+{
+    margin-left:750px;
+}
+.logo-word p,
+.nav-link0,
+.nav-link1
+{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+}
+.nav-link1
+{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.nav-link1
+{
+    text-align: center;
+}
+.team
+{
+    margin-right: 35px;
+    padding-top:15px;
+}
+
+.team>a:hover
+{
+    color: rgb(228,108,10);
+    text-decoration: none ;
+}
+.account
+{
+    background: #0EADD8;
+    height:650px;
+}
+.teach_more
+{
+    margin-left:520px;
+}
+
+.teach_more p
+{
+    color: #fff;
+    font-family:monospace;
+    font-size: 20px;
+    margin-bottom:0px;
+    font-weight: 400;
+}
+.teach-more p
+{
+    font-size: 30px;
+    margin-left:533px;
+    margin-bottom:0px;
+    color: #fff;
+    font-family:monospace;
+    font-weight: 600;
+    padding-top:30px;
+}
+.freeac
+{
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+    margin-top:20px;
+    font-family:monospace;
+    font-weight: 400;
+}
+.login
+{
+    background: rgb(255,76,32);
+    height:60px;
+    padding-top:15px;
+}
+.imteacher
+{
+    position:relative; 
+    left:455px; 
+}
+.nav_account1
+{
+    margin-right: 20px;
+    background: rgba(0,85,255);
+    width:180px;
+    height:38px;
+    border-radius: 3px;
+}
+.nav_account
+{
+    margin-right: 20px;
+    background: rgb(255,76,32);
+    width:180px;
+    height:38px;
+    border-radius: 3px;
+}
+.nav-link2
+{
+    position:relative; 
+    left:55px; 
+    top:7px;
+    color: #fff;
+    font-family:Microsoft JhengHei;
+    font-weight: 300;
+    font-size: 16px;
+}
+.woman img
+{
+    position:relative;
+    right:75px;
+    padding-bottom:10px;;
+    margin-top:30px;
+    width:500px;
+    height: 300px;
+}
+.top-img
+{
+    max-width:320px;
+}
+.top-img img
+{
+    width:280px;
+    height: 150px;
+    margin-top:10px; 
+}
+.top-content p
+{
+    font-weight: 400;
+    font-size: 16px;
+}
+.content1
+{
+    padding-left: 130px;
+    padding-top: 70px;
+}
+.content
+{
+    background: #EEF2F6;
+}
+.top-top p
+{
+    font-family:Microsoft JhengHei;
+    color:#405A78;
+    font-weight: 600;
+    font-size: 32px;
+}
+.mid-img img
+{
+    width:280px;
+    height: 170px;
+    margin-top:30px; 
+}
+.mid1
+{
+    margin-top:10px; 
+}
+.mid-mid p
+{
+    font-family:Microsoft JhengHei;
+    color:#405A78;
+    font-weight: 600;
+    font-size: 32px;
+}
+.below-below p
+{
+    font-family:Microsoft JhengHei;
+    color:#405A78;
+    font-weight: 600;
+    font-size: 32px;
+}
+.below-img img
+{
+    width:300px;
+    height: 170px;
+    margin-top:16px; 
+}
+.mid1,
+.below
+{
+    margin-top:50px;
+}
+.below
+{
+    margin-bottom:50px;
+}
+.bottom-content p
+{
+    font-family:fantasy;
+    color:#728294;
+    font-weight: 200;
+    font-size: 20px;
+}
+.bottom-bottom p
+{
+    font-family:fantasy;
+    color:#405A78;
+    font-weight: 800;
+    font-size: 32px;
+    text-align: center;
+    padding-right: 105px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.user img
+{
+    width:40px;
+    height: 40px;
+}
+.user 
+{
+    margin:0;
+
+}
+.con-user
+{
+    position:relative;
+    right:15px;
+}
+.user p
+{
+    font-size: 10px;
+}
+.userp1 p
+{
+    font-size: 14px;
+}
+.con-user
+{
+    margin-top:50px;
+    padding-bottom:50px;
+}
+.img-logo2 img
+{
+    position:relative;
+    left:20px;
+    margin-bottom:30px;
+    width: 40px;
+    height: 40px;
+}
+.foot
+{
+    position:relative;
+    top:80px;
+    padding-bottom:80px;
+    padding-left:80px;
+}
+.foot-content
+{
+    position:relative;
+    left:50px;
+}
+.first,
+.second,
+.third
+{
+    margin-right:100px;
+}
+.img-logo3
+{
+    margin-bottom:5px;
+}
+.first p
+{
+    font-family:Microsoft JhengHei;
+    color:#847497;
+    font-weight: 400;
+    font-size: 16px;
+}
+.option option
+{
+    text-align: center;
+}
+.user-logo 
+{
+    margin-bottom: 20px;
+}
+.web-logo
+{
+    margin-bottom:30px;
+}
+.user-logo
+{
+    position:relative;
+    right:3px;
+}
+.nav_account1>a:hover
+{
+    color: rgb(228,108,10);
+    text-decoration: none ;
+}
+.img-logo3>a:hover,
+.web-logo>a:hover
+{
+    text-decoration: none ;
+}
